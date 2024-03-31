@@ -1,0 +1,1 @@
+# Student management system app using pyqt6, sqlite with the aid of oop.
